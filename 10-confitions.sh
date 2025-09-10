@@ -7,3 +7,4 @@ then
 echo "Given number $NUM is greater than or equal to 20"
 else
 echo "Given number $NUM is less than 20"
+fi
